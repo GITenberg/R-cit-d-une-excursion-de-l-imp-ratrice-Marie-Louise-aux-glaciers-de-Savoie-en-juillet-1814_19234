@@ -1,0 +1,36 @@
+_repo: R-cit-d-une-excursion-de-l-imp-ratrice-Marie-Louise-aux-glaciers-de-Savoie-en-juillet-1814_19234
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Méneval, Claude-François, baron de
+    aliases:
+    - Meneval, Claude-Francois, baron de
+    - Méneval, C.-F. (Claude-François), baron de
+    birthdate: 1778
+    deathdate: 1850
+    gutenberg_agent_id: '8559'
+    url: http://www.gutenberg.org/2009/agents/8559
+description: ''
+gutenberg_bookshelf:
+- Geology
+- FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2006-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19234'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Glaciers -- France -- Savoie'
+- !lcc 'DC'
+- !lcsh 'Marie Louise, Empress, consort of Napoleon I, Emperor of the French, 1791-1847
+  -- Travel -- France -- Savoie'
+- !lcsh 'Savoie (France) -- Description and travel'
+title: Récit d'une excursion de l'impératrice Marie-Louise aux glaciers de Savoie
+  en juillet 1814
+url: http://www.gutenberg.org/ebooks/19234
