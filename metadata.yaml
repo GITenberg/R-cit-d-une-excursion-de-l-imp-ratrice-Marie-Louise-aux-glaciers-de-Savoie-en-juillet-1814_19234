@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '8559'
     url: http://www.gutenberg.org/2009/agents/8559
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19234#R-cit-d-une-excursion-de-l-imp-ratrice-Marie-Louise-aux-glaciers-de-Savoie-en-juillet-1814
 gutenberg_bookshelf:
 - Geology
 - FR Biographie, Mémoires, Journal intime, Correspondance
